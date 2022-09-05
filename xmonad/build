@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo Rebuild should be completed in docker-build.sh, this script will do nothing

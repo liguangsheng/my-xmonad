@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo Rebuild should completed in docker-build.sh, this script will do nothing.
+
+# exec stack ghc -- --make xmobar.hs -i -ilib -fforce-recomp -main-is main -v0 -o $1
+
+
